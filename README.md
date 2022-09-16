@@ -20,3 +20,11 @@ _We shouldn't waste time doing irrelevant things with no social impact_. _I stro
 
 ### _**How to reach me:**_
 _Get in touch and let's chat. You can find me on <a href="https://twitter.com/ricardo_7307" target="_blank">🐦twitter</a>, <a href="https://www.linkedin.com/in/ricardo-ferreira-04559531/?originalSubdomain=ch" target="_blank">🔗 LinkedIn</a> or <a href="https://www.youtube.com/c/ProgramadordeElite" target="_blank">📺 Youtube</a> where I have a free course <a href="https://github.com/treslines/aad" target="_blank">“Android Certificate From Scratch”</a>, another one called <a href="https://github.com/treslines/desafios_comuns_android" target="_blank">“Solving Common Android Problems”</a> and <a href="https://github.com/treslines/android_compose_arsenal" target="_blank">“Android Jetpack Compose”</a> available for **free** for you._ ❤️
+
+<h1 align='center'></h1>
+
+### _**One more thing!**_
+Have any of my videos, posts or repositories saved you a lot of time or helped you at work? It's not a cliché, I produce more with coffee. 😁 
+It's my gasoline ⛽️ any coffee size helps me stay productive and active. 😎🤜🤛 https://www.buymeacoffee.com/progdeelite
+
+Thanks a lot for the support. 
