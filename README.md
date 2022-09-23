@@ -25,6 +25,15 @@ _Get in touch and let's chat. You can find me on <a href="https://twitter.com/ri
 
 ### _**One more thing!**_
 Have any of my videos, posts or repositories saved you a lot of time or helped you at work? It's not a cliché, I produce more with coffee. 😁 
-It's my gasoline ⛽️ any coffee size helps me stay productive and active. 😎🤜🤛 https://www.buymeacoffee.com/progdeelite
+It's my gasoline ⛽️ any coffee size helps me stay productive and active. 😎🤜🤛 **Buy me a coffee here:** https://www.buymeacoffee.com/progdeelite
 
 Thanks a lot for the support. 
+
+<h1 align='center'></h1>
+
+# How can I help/contribute?
+Beeing a knowledge multiplier. Show this repository to your **COMMUNITY/GROUP/SLACK MOBILE**
+:
+| 👇 Text with link to post on social networks 👇 |
+| :------------- |
+| Repositório bacana em Português 🇵🇹 🇧🇷 para quem pretende criar um projeto multiplataforma mobile. Vai te evitar dor de cabeça e economizar muito tempo no trabalho. https://bit.ly/kotlin-multiplatform-mobile |
