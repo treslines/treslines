@@ -29,7 +29,6 @@ It's my gasoline ⛽️ any coffee size helps me stay productive and active. �
 
 Thanks a lot for the support. 
 
-<h1 align='center'></h1>
 
 # How can I help/contribute?
 Beeing a knowledge multiplier. Show this repository to your **COMMUNITY/GROUP/SLACK MOBILE**
