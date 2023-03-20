@@ -3,10 +3,10 @@ _<h3 align='center'>Hello 👋, I am **Ricardo Ferreira**! 🧑‍💻</h3>_
 
 
 _<h3 align='left'>**Me in a nutshell**</h3>_
-- _Brazilian 🎉 & Swiss 🫕 living in Switzerland 🇨🇭_
+- _Brazilian ⚽ & Swiss 🧀 living in Switzerland 🇨🇭_
 - _Android <a href="https://www.youtube.com/channel/UCsEdUK6zNAA95aGlqoBOclQ" target="_blank">youtuber 📺</a>_
 - _Github community <a href="https://github.com/treslines" target="_blank">contributor 🦑</a>_
-- _Blogging System Design on <a href="https://bugonsoftware.substack.com/p/coming-soon?showWelcome=true" target="_blank">BugOnSoftware 📦</a>_
+- _Blogging System Design on <a href="https://bugonsoftware.substack.com/p/coming-soon?showWelcome=true" target="_blank">BugOnSoftware 📦🐞</a>_
 
 <h1 align='center'></h1>
 
