@@ -33,10 +33,20 @@ It's my gasoline ⛽️ Any coffee size helps me stay productive and active. �
 
 Thanks a lot for the support. 
 
+# ⛓️ **CONNECT WITH ME!**
+Networking is one of the most important things in IT. (If not the most important one) **In times of so many layoffs, a good network of contacts is indispensable**. So start building your contact network as soon as possible. You will thank me in the future. **Not sure where to start?** Start connecting with me and join our help and networking groups. The members are super active, collaborative and we help each other.
 
-# How can I help/contribute?
-Beeing a knowledge multiplier. Show this repository to your **COMMUNITY/GROUP/SLACK MOBILE**
-:
-| 👇 Text with link to post on social networks 👇 |
+- 🧲 | Telegram: networking gratuito ► https://bit.ly/telegramGb
+- 🧲 | Discord: conteúdo seleto ►  https://bit.ly/discordGb
+- 🧲 | Techblog: system design ► https://bit.ly/techblogGb
+- 🧲 | Twitter: posts semanais ►  https://bit.ly/twitterGb
+- 🧲 | Tiktok: dicas e resenha ►  https://bit.ly/tiktokGb
+- 🧲 | LinkedIn: seja encontrado por recrutadores ► https://bit.ly/linkedinGb
+- 🧲 | Github: deixa uma estrelinha ► https://github.com/treslines
+
+# Good knowledge is shared knowledge
+Show this repository to your **COMMUNITY/GROUP/SLACK MOBILE** With the small text snippet below I make it easy for you to share this repository with your friends or co-workers. Just copy the text below and post it on your social media. **Good knowledge is shared knowledge** I count on your support and help!
+
+| 👇 Text with link to post on social media 👇 |
 | :------------- |
-| Repositório bacana em Português 🇵🇹 🇧🇷 voltado para desenvolvedores mobile android. Vai te evitar dores de cabeça e economizar uma baita tempo no trabalho. https://github.com/treslines |
+| Repositório bacana em Português 🇵🇹 🇧🇷 para quem pretende criar um projeto multiplataforma mobile. Vai te evitar muita dor de cabeça e economizar muito tempo no trabalho. https://bit.ly/kotlin-multiplatform-mobile |
