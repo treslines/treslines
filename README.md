@@ -33,7 +33,7 @@ It's my gasoline ⛽️ Any coffee size helps me stay productive and active. �
 
 Thanks a lot for the support. 
 
-# ⛓️ **CONNECT WITH ME!**
+# ⛓️ **Before proceeding, ensure your future employability!**
 Networking is one of the most important things in IT. (If not the most important one) **In times of so many layoffs, a good network of contacts is indispensable**. So start building your contact network as soon as possible. You will thank me in the future. **Not sure where to start?** Start connecting with me and join our help and networking groups. The members are super active, collaborative and we help each other.
 
 - 🧲 | Telegram: networking gratuito ► https://bit.ly/telegramGb
